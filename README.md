@@ -1,5 +1,6 @@
 #This code has been developed by SpainX, a group formed by Jerónimo Bueno González, Pablo Comesaña Sánchez, Germán García González, Alejandro de Miguel Mendiola & Miguel Ángel Muñoz de la Torre.
-#We are participating in the NASA Space Apps Challenge 2018, in the project 'Make Sense Out of Mars'.
+#
+#The motivation of this work is due to the NASA Space Apps Challenge 2018, specifically to participate in the project 'Make #Sense Out of Mars'.
 #
 #
 #
